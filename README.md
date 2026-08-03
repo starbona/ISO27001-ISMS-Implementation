@@ -163,7 +163,7 @@ Passionate about Governance, Risk Management, Compliance, ISO 27001 implementati
 ### Connect with Me
 
 - **GitHub:** https://github.com/starbona
-- **LinkedIn:** https://www.linkedin.com/in/BONAVENTURE EZINWA
+- **LinkedIn:** https://www.linkedin.com/in/BONAVENTURE-EZINWA
 
 ---
 
