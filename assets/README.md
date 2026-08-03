@@ -2,16 +2,16 @@
 
 ### ISMS Scope
 
-![Scope](assets/scope.png.png)
+![Scope](assets/Scope.png.png)
 
 ---
 
 ### Risk Register
 
-![Risk Register](assets/risk-register.png.png)
+![Risk Register](assets/Risk-register.png.png)
 
 ---
 
 ### Implementation Roadmap
 
-![Roadmap](assets/roadmap.png.png)
+![Roadmap](assets/Roadmap.png.png)
