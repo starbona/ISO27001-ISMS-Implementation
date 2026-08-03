@@ -171,7 +171,7 @@ Passionate about Governance, Risk Management, Compliance, ISO 27001 implementati
 
 ### ISMS Scope
 
-![ISMS Scope](assets/scope.png)
+![ISMS Scope](assets/scope-diagram.png)
 
 ---
 
@@ -189,4 +189,4 @@ Passionate about Governance, Risk Management, Compliance, ISO 27001 implementati
 
 ### Implementation Roadmap
 
-![Iplementation Roadmap](assets/implementation-roadmap.png)
+![Implementation Roadmap](assets/implementation-roadmap.png)
