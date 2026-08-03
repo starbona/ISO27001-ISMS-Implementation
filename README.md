@@ -189,4 +189,4 @@ Passionate about Governance, Risk Management, Compliance, ISO 27001 implementati
 
 ### Implementation Roadmap
 
-![Roadmap](assets/roadmap.png)
+![Iplementation Roadmap](assets/implementation-roadmap.png)
